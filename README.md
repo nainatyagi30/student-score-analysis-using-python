@@ -2,6 +2,7 @@ This project is an end-to-end analysis of student results using Python and vario
 The dataset used in this project contains information about student performance including attributes such as gender, marks in different subjects,parent's education,parent's marital status etc. It is provided in CSV format (student_scores.csv) and is included in the repository.
 
 Features:
+
 Data Cleaning: The project involves cleaning the dataset to remove any inconsistencies or missing values.
 
 Exploratory Data Analysis (EDA): Exploring the dataset to understand the distribution of various variables and relationships between them.
