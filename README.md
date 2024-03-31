@@ -13,5 +13,6 @@ Statistical Analysis: Conducting statistical analysis to derive insights and pat
 
 Predictive Modeling: Building predictive models to forecast student performance or identify factors affecting student outcomes.
 
+here is the working project:
 
 https://colab.research.google.com/github/nainatyagi30/student-score-analysis-using-python/blob/main/score_analysis.ipynb
