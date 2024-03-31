@@ -3,9 +3,13 @@ The dataset used in this project contains information about student performance 
 
 Features:
 Data Cleaning: The project involves cleaning the dataset to remove any inconsistencies or missing values.
+
 Exploratory Data Analysis (EDA): Exploring the dataset to understand the distribution of various variables and relationships between them.
+
 Data Visualization: Utilizing visualization libraries such as Matplotlib and Seaborn to create visual representations of the data for better understanding.
+
 Statistical Analysis: Conducting statistical analysis to derive insights and patterns from the dataset.
+
 Predictive Modeling: Building predictive models to forecast student performance or identify factors affecting student outcomes.
 
 
